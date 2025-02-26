@@ -6,10 +6,10 @@ This project focuses on developing an AI-powered defect detection system for ind
 
 ### **Key Features:**
 
-- Automated defect detection using CNNs and deep learning models\
-- Supports multiple datasets (Severstal Steel Defect Detection, KolektorSDD2, GC10-DET)\
-- Preprocessing pipeline for reproducibility and scalability\
-- Data augmentation techniques to improve model robustness\
+- Automated defect detection using CNNs and deep learning models
+- Supports multiple datasets (Severstal Steel Defect Detection, KolektorSDD2, GC10-DET)
+- Preprocessing pipeline for reproducibility and scalability
+- Data augmentation techniques to improve model robustness
 - Open-source and easy to use for industrial applications
 
 ---
