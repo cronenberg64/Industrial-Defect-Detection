@@ -169,3 +169,20 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Ignore dataset folders
+data/severstal-steel-defect-detection/
+data/combined_dataset/
+data/kolektorSDD2/
+data/GC10-DET/
+processed/
+raw/
+
+# Ignore large image files
+*.jpg
+*.png
+*.jpeg
+
+# Ignore virtual environment 
+venv/
+venv/
